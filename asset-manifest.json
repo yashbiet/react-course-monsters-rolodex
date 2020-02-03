@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-course-monsters-rolodex/static/css/main.73e87f34.chunk.css",
+    "main.js": "/react-course-monsters-rolodex/static/js/main.c48744f1.chunk.js",
+    "main.js.map": "/react-course-monsters-rolodex/static/js/main.c48744f1.chunk.js.map",
+    "runtime-main.js": "/react-course-monsters-rolodex/static/js/runtime-main.9aaf98b4.js",
+    "runtime-main.js.map": "/react-course-monsters-rolodex/static/js/runtime-main.9aaf98b4.js.map",
+    "static/js/2.1f3314c8.chunk.js": "/react-course-monsters-rolodex/static/js/2.1f3314c8.chunk.js",
+    "static/js/2.1f3314c8.chunk.js.map": "/react-course-monsters-rolodex/static/js/2.1f3314c8.chunk.js.map",
+    "index.html": "/react-course-monsters-rolodex/index.html",
+    "precache-manifest.149455c5823e275f35be9a294cdffbeb.js": "/react-course-monsters-rolodex/precache-manifest.149455c5823e275f35be9a294cdffbeb.js",
+    "service-worker.js": "/react-course-monsters-rolodex/service-worker.js",
+    "static/css/main.73e87f34.chunk.css.map": "/react-course-monsters-rolodex/static/css/main.73e87f34.chunk.css.map",
+    "static/js/2.1f3314c8.chunk.js.LICENSE.txt": "/react-course-monsters-rolodex/static/js/2.1f3314c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aaf98b4.js",
+    "static/js/2.1f3314c8.chunk.js",
+    "static/css/main.73e87f34.chunk.css",
+    "static/js/main.c48744f1.chunk.js"
+  ]
+}
